@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
-#define XSIZE 100
-#define YSIZE 100
+#define XSIZE 200
+#define YSIZE 200
 
 int main(void) {
 
